@@ -1,0 +1,2 @@
+text for file song1
+version 1
